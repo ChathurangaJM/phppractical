@@ -12,7 +12,7 @@
     <form action="data.php" method="post">
         <label for="firstname">First Name:</label>
         <input type="text" id="firstname" name="firstname" required><br><br>
-        
+        <p>km</p>
         <label for="lastname">Last Name:</label>
         <input type="text" id="lastname" name="lastname" required><br><br>
         
