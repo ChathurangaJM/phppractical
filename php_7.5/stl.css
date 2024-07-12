@@ -1,0 +1,14 @@
+body {
+    background: cornflowerblue;
+    text-align: center;
+    margin-top: 200px;
+}
+
+.box {
+    height: 200px;
+    width: 300px;
+    background: burlywood;
+    border-radius: 30px;
+    margin-left: 500px;
+
+}
